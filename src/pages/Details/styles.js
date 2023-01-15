@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-
   padding: 4rem 0;
 
   h1 {
@@ -32,7 +31,7 @@ export const Container = styled.div`
     border: none;
     cursor: pointer;
     border-radius: 1rem;
-    color: #FFFFFF;
+    color: #ffffff;
     padding: 0.8rem 2rem;
     margin-top: 1rem;
     font-size: 100%;
@@ -52,5 +51,4 @@ export const Container = styled.div`
   .release-date {
     opacity: 0.5;
   }
-
-`
+`;

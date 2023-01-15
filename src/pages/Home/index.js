@@ -3,7 +3,6 @@ import { Container, Movie, MovieList } from "./styles";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
-
 export const imagePath = "https://image.tmdb.org/t/p/w500/";
 
 function Home() {
